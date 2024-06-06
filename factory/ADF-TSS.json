@@ -1,0 +1,9 @@
+{
+	"name": "ADF-TSS",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "079a0849-79d5-4790-972c-724d832dfcff",
+		"tenantId": "740e6177-fd5e-417c-bea1-0002d10fb180"
+	}
+}
